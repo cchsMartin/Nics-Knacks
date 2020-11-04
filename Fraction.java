@@ -42,4 +42,5 @@ public static void divFraction(int a, int b, int c) {
 b = (a/c);
 System.out.println("(4 / 2) / (2 / 2) = " + b + " / 2");
 }
+	//this code will always produce the same fraction. Therefore, it won't work for objects with values that aren't the values you initialize.
 } 
